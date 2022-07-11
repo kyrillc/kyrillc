@@ -25,7 +25,7 @@ If you want to have a better idea of the kind of projects I worked on that are n
 - :link: [Commercial product page](http://www.artreport.fr/en/).
 - :link: [App Store page](https://apps.apple.com/app/art-report/id968095567).
 
-### 3. MOPRIM Move Together
+### 3. MOPRIM Move Together for iPhone:
 - App I worked on while working for MOPRIM.
 - Made with **Swift**.
 - Includes an **Objective-C** framework I also worked on.
