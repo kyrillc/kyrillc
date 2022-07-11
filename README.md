@@ -12,8 +12,8 @@ If you want to have a better idea of the kind of projects I worked on that are n
 - See who recommended you what, where, and when.
 - Written in **Objective-C**.
 - Uses **Core Data** and syncs data over **iCloud**.
-- Makes calls to multiple APIs to complete your recommendations (iTunes Store, Spotify, Google Books, TheMovieDB, etc).
-- Has a clean UI for both iPhone and iPad.
+- Makes calls to multiple **APIs** to complete your recommendations (iTunes Store, Spotify, Google Books, TheMovieDB, etc).
+- Has a clean UI for both **iPhone & iPad**.
 - :link: [App Store page](https://itunes.apple.com/app/suggested/id1025461953?l=en&mt=8).
 
 ### 2. ArtReport for iPad:
